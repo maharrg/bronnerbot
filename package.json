@@ -1,6 +1,9 @@
 {
   "name": "bronner_bot",
   "version": "1.0.0",
+  "engines": {
+    "node": "8.1.2"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
